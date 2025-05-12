@@ -11,3 +11,6 @@ manter métodos idênticos entre interface e implementação facilita manutenç�
 
 ### Resumo
 As alterações reforçam os pilares da Programação Orientada a Objetos — abstração, encapsulamento e polimorfismo — resultando em um código mais limpo, seguro e sustentável.
+
+### Autor das alterações
+Thiago F.S Dias
